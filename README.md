@@ -4,8 +4,6 @@
 
  - 💻 I study computer systems engineering.
 
-- ⚡ I currently work at [Voltyum Network](https://voltyum.net) as a configurator.
-
 - 🌱 I’m currently learning **Java and Go**.
 
 - 🌌 I am fascinated by astronomy.
